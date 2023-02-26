@@ -20,7 +20,7 @@ namespace WebMysql.Data
 
         
 
-        public DbSet<WeatherForecast> WeatherForecast { get; set; }
+        
         public DbSet<Customer> Customers { get; set; }
     
     }
